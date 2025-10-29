@@ -1,0 +1,10 @@
+opencv-python
+Pillow
+matplotlib
+load_dotenv
+pandas
+numpy
+tqdm
+seaborn
+ultralytics
+geopandas
