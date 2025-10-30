@@ -8,3 +8,4 @@ tqdm
 seaborn
 ultralytics
 geopandas
+rasterio
