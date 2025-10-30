@@ -218,7 +218,7 @@ Notes:
 ### Exemple de détection
 
 Avant détection  
-![Avant](docs/assets/parking_before_thumb.jpg)
+![Avant](docs/assets/parking_before.jpg)
 
 Après détection (véhicules YOLO)  
-![Après](docs/assets/parking_after_detections_thumb.jpg)
+![Après](docs/assets/parking_after_detections.jpg)
