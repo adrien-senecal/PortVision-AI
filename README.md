@@ -214,3 +214,11 @@ Notes:
 - Remplacez le chemin Windows du volume par le dossier qui contient vos images et sorties (ex: zone1.tiff, detections_zone1.csv).
 - Sous Linux/macOS: -v /abs/path/to/data:/data.
 - Sans GPU: supprimez --gpus all (l’inférence sera plus lente).
+
+### Exemple de détection
+
+Avant détection  
+![Avant](docs/assets/parking_before_thumb.jpg)
+
+Après détection (véhicules YOLO)  
+![Après](docs/assets/parking_after_detections_thumb.jpg)
